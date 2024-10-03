@@ -1,0 +1,17 @@
+{
+  "name": "railway-management-system",
+  "version": "1.0.0",
+  "description": "Railway management system API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "sequelize": "^6.6.5",
+    "mysql2": "^2.2.5",
+    "jsonwebtoken": "^8.5.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0"
+  }
+}
